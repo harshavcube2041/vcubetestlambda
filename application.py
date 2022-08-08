@@ -8,7 +8,7 @@ application = Flask(__name__)
 
 @application.route("/",methods=["GET"])
 def test():
-    return "hello world Lambda from vcube"
+    return "hello world"
     # html code
     # css code
 
