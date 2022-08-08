@@ -1,0 +1,10 @@
+{
+    "dev": {
+        "app_function": "application.application",
+        "aws_region": "us-east-2",
+        "profile_name": "default",
+        "project_name": "vcubelambda",
+        "runtime": "python3.8",
+        "s3_bucket": "zappa-9z6uyi0tf"
+    }
+}
